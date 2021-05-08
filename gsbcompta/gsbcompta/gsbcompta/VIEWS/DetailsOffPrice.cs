@@ -21,7 +21,7 @@ namespace gsbcompta.VIEWS
         String Amount;
         String File;
         OffPriceController opController;
-        private ListeFiches lt;
+        private buttonAddUser lt;
 
         public DetailsOffPrice()
         {
@@ -61,7 +61,7 @@ namespace gsbcompta.VIEWS
             String amount = this.textBoxAmount.Text;
             opController.updateOffPrice(this.ID, name, date, amount);
 
-            lt = new ListeFiches();
+            lt = new buttonAddUser();
             lt.Show();
             this.Hide();
         }

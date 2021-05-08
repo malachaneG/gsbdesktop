@@ -46,6 +46,28 @@ namespace gsbcompta
             
         }
 
+        public void AddUser(string id, string nom, string prenom, string login, string password, string adresse, string cp, string ville, string date)
+        {
+            try
+            {
+                Db.Mysql.Open();
+
+                MySqlCommand cmd = Db.Mysql.CreateCommand();
+
+                cmd.CommandText = "INSERT INTO utilisateur (id,nom,prenom,login,mdp,adresse,cp,ville,dateEmbauche) VALUES ('" + id + "','" + nom + "','" + prenom + "','" + login + "','" + password + "','" + adresse + "','" + cp + "','" + ville + "','" + date + "' )";
+                cmd.ExecuteNonQuery();
+
+                Db.Mysql.Close();
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("ERROR: " + e);
+            }
+
+
+        }
+
 
 
 

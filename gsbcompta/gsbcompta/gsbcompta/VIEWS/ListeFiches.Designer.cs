@@ -1,7 +1,7 @@
 ﻿
 namespace gsbcompta
 {
-    partial class ListeFiches
+    partial class buttonAddUser
     {
         /// <summary>
         /// Required designer variable.
@@ -46,6 +46,7 @@ namespace gsbcompta
             this.label1 = new System.Windows.Forms.Label();
             this.labelEtat = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.buttonAddUsers = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewBills)).BeginInit();
             this.groupBoxFixedFees.SuspendLayout();
             this.groupBoxOffPrice.SuspendLayout();
@@ -219,11 +220,22 @@ namespace gsbcompta
             this.label2.TabIndex = 8;
             this.label2.Text = "Etat :";
             // 
-            // ListeFiches
+            // buttonAddUsers
+            // 
+            this.buttonAddUsers.Location = new System.Drawing.Point(644, 438);
+            this.buttonAddUsers.Name = "buttonAddUsers";
+            this.buttonAddUsers.Size = new System.Drawing.Size(166, 30);
+            this.buttonAddUsers.TabIndex = 9;
+            this.buttonAddUsers.Text = "Ajouter un utilisateur";
+            this.buttonAddUsers.UseVisualStyleBackColor = true;
+            this.buttonAddUsers.Click += new System.EventHandler(this.buttonAddUsers_Click);
+            // 
+            // buttonAddUser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1319, 636);
+            this.Controls.Add(this.buttonAddUsers);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.labelEtat);
             this.Controls.Add(this.label1);
@@ -234,7 +246,7 @@ namespace gsbcompta
             this.Controls.Add(this.groupBoxFixedFees);
             this.Controls.Add(this.dataGridViewBills);
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "ListeFiches";
+            this.Name = "buttonAddUser";
             this.Text = "ListeFiches";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewBills)).EndInit();
             this.groupBoxFixedFees.ResumeLayout(false);
@@ -265,5 +277,6 @@ namespace gsbcompta
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labelEtat;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button buttonAddUsers;
     }
 }

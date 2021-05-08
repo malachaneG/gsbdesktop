@@ -144,3 +144,41 @@ D:\BTS SIO\Projet Personnel Encadré\2ème année\gsbdesktopp 23-04-2021\gsbcomp
 D:\BTS SIO\Projet Personnel Encadré\2ème année\gsbdesktopp 23-04-2021\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.csproj.CopyComplete
 D:\BTS SIO\Projet Personnel Encadré\2ème année\gsbdesktopp 23-04-2021\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.exe
 D:\BTS SIO\Projet Personnel Encadré\2ème année\gsbdesktopp 23-04-2021\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.pdb
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\gsbcompta.exe.config
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\gsbcompta.exe
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\gsbcompta.pdb
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Google.Protobuf.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\MySql.Data.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Renci.SshNet.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Buffers.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Memory.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Zstandard.Net.dll
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Google.Protobuf.pdb
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Google.Protobuf.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\MySql.Data.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\Renci.SshNet.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Buffers.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Memory.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.csprojAssemblyReference.cache
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.VIEWS.AddUser.resources
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.VIEWS.DetailsOffPrice.resources
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.Form1.resources
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.buttonAddUser.resources
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.Properties.Resources.resources
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.csproj.GenerateResource.cache
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.csproj.CoreCompileInputs.cache
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.csproj.CopyComplete
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.exe
+C:\Users\gusti\Documents\gsbdesktop\gsbcompta\gsbcompta\gsbcompta\obj\Debug\gsbcompta.pdb

@@ -20,7 +20,7 @@ namespace gsbcompta
 
         private void connect()
         {
-            string connectionString = "SERVER=127.0.01; DATABASE=gsb; UID=root; PASSWORD=root";
+            string connectionString = "SERVER=cj654063-002.dbaas.ovh.net; PORT=35305; DATABASE=gsbmalachane; UID=gsbmalachane; PASSWORD=gsbmalachaneSU2020";
             this.Mysql = new MySqlConnection(connectionString);
         }
     }

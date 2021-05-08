@@ -13,7 +13,7 @@ namespace gsbcompta
     public partial class Form1 : Form
     {
   
-        ListeFiches form;
+        buttonAddUser form;
         UserController uController;
         List<User> uList;
         public Form1()
@@ -45,7 +45,7 @@ namespace gsbcompta
             }
             if(logged)
             {
-                form = new ListeFiches();
+                form = new buttonAddUser();
                 form.Show();
                 this.Hide();
             }

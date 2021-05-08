@@ -14,7 +14,7 @@ using System.Windows.Forms.VisualStyles;
 
 namespace gsbcompta
 {
-    public partial class ListeFiches : Form
+    public partial class buttonAddUser : Form
     {
         List<Bill> bList;
         BillController bController;
@@ -24,7 +24,7 @@ namespace gsbcompta
         FixedFeesController ffController;
         String userID, month;
 
-        public ListeFiches()
+        public buttonAddUser()
         {
             InitializeComponent();
             bController = new BillController();
@@ -96,6 +96,12 @@ namespace gsbcompta
 
             bList = bController.getBills();
             this.dataGridViewBills.DataSource = bList;
+        }
+
+        private void buttonAddUsers_Click(object sender, EventArgs e)
+        {
+            VIEWS.AddUser ad = new VIEWS.AddUser();
+            ad.Show();
         }
 
         private void buttonFixedFeesUpdate_Click(object sender, EventArgs e)
